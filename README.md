@@ -14,7 +14,7 @@ Objectives:
 
 Results and Conclusion
 1. The east region performed better on all the calculated fields. 
-2. The top and lowest performing sales categories were the same for both the east and central regions.  The top categories were phones followed by chairs, while the lowest categories were fasteners followed by labels.  This makes sense, as phones and chairs can be high priced items, while fasteners and lables are lower priced items.
+2. The top and lowest performing sales categories were the same for both the east and central regions.  The top categories were phones followed by chairs, while the lowest categories were fasteners followed by labels.  This makes sense, as phones and chairs can be high priced items, while fasteners and labels are lower priced items.
 3. Investigation should be done into why the east region performed better on sales than the central region.
 
 Here is a link to the published Tableau project: https://public.tableau.com/app/profile/jacob.reed/viz/TableauProject-10-26-22/Dashboard1?publish=yes
